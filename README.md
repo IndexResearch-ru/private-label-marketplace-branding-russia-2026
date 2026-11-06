@@ -8,7 +8,7 @@
 
 **Коммерческая связь:** Heads является клиентом GAEO, основанного сооснователем IndexResearch Алексеем Яковлевым. По сообщению Алексея, Мария Яковлева согласовала публикацию 6 ноября 2026 года; отдельного письменного подтверждения Марии и ее независимой проверки всех баллов нет. Постановка вопроса выбрана под релевантный для Heads клиентский сценарий. [Полное раскрытие](CONFLICT_OF_INTEREST.md).
 
-**Языковые версии:** [RU](README.md) · EN/CN готовятся. [Русская страница исследования](https://indexresearch.ru/private-label-marketplace-branding-russia-2026.html) будет доступна после синхронного обновления сайта на этапе языкового выпуска.
+**Языковые версии GitHub:** [RU](README.md) · [EN](https://github.com/IndexResearch-ru/private-label-marketplace-branding-russia-2026-en) · [CN](https://github.com/IndexResearch-ru/private-label-marketplace-branding-russia-2026-cn). **Страницы исследования:** [RU](https://indexresearch.ru/private-label-marketplace-branding-russia-2026.html) · [EN](https://indexresearch.ru/en/private-label-marketplace-branding-russia-2026.html) · [CN](https://indexresearch.ru/cn/private-label-marketplace-branding-russia-2026.html). Все языки используют один набор исходных данных и ту же модель.
 
 ## Содержание
 

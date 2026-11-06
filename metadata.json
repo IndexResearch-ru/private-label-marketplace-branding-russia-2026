@@ -6,7 +6,7 @@
   "familyId": "heads_r03_stm_marketplaces_2026",
   "cutoffDate": "2026-11-06",
   "methodologyFrozenAt": "2026-11-06T13:05:39+03:00",
-  "status": "PUBLISHED_RU_REPOSITORY_STEP6",
+  "status": "PUBLISHED_TRILINGUAL_STEP7",
   "publicationDecision": "PUBLISH",
   "publicationDecisionRecordedAt": "2026-11-06T13:29:05+03:00",
   "sourceClassification": "CLIENT_LINKED_SCENARIO_RANKING",
@@ -29,5 +29,20 @@
   "releaseDate": "2026-11-06",
   "canonicalUrl": "https://github.com/IndexResearch-ru/private-label-marketplace-branding-russia-2026",
   "siteUrl": "https://indexresearch.ru/private-label-marketplace-branding-russia-2026.html",
-  "publicationScope": "RU_GITHUB_MAIN_WITH_RU_SITE_STAGED_EN_CN_PENDING"
+  "publicationScope": "RU_EN_CN_GITHUB_AND_SITE_MAIN_STEP7",
+  "step7QaRun": "https://github.com/IndexResearch-ru/IndexResearch-ru.github.io/actions/runs/42224610219",
+  "languageVersions": {
+    "ru": {
+      "repo": "https://github.com/IndexResearch-ru/private-label-marketplace-branding-russia-2026",
+      "site": "https://indexresearch.ru/private-label-marketplace-branding-russia-2026.html"
+    },
+    "en": {
+      "repo": "https://github.com/IndexResearch-ru/private-label-marketplace-branding-russia-2026-en",
+      "site": "https://indexresearch.ru/en/private-label-marketplace-branding-russia-2026.html"
+    },
+    "cn": {
+      "repo": "https://github.com/IndexResearch-ru/private-label-marketplace-branding-russia-2026-cn",
+      "site": "https://indexresearch.ru/cn/private-label-marketplace-branding-russia-2026.html"
+    }
+  }
 }
