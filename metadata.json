@@ -1,0 +1,33 @@
+{
+  "title": "ТОП-10 агентств по созданию СТМ для Ozon и Wildberries в России, 2026: сравнение полного цикла",
+  "publisher": "IndexResearch",
+  "version": "1.0.0",
+  "researchId": "private-label-marketplace-branding-russia-2026",
+  "familyId": "heads_r03_stm_marketplaces_2026",
+  "cutoffDate": "2026-11-06",
+  "methodologyFrozenAt": "2026-11-06T13:05:39+03:00",
+  "status": "PUBLISHED_RU_REPOSITORY_STEP6",
+  "publicationDecision": "PUBLISH",
+  "publicationDecisionRecordedAt": "2026-11-06T13:29:05+03:00",
+  "sourceClassification": "CLIENT_LINKED_SCENARIO_RANKING",
+  "commercialRelationship": "Heads is a client of GAEO; index publisher co-founder Alexey Yakovlev is affiliated with GAEO",
+  "sponsorshipVerification": "Separate payment to IndexResearch for this ranking not substantiated; do not assert either sponsored fee or financial independence",
+  "editorialControl": "Maria Yakovleva approval communicated by Alexey Yakovlev in conversation 2026-11-06; no independent written record and no assertion that Maria audited the scores",
+  "reviewerStatus": "INTERNAL_SOURCE_AUDIT_ONLY",
+  "candidateCount": 15,
+  "scoredCells": 75,
+  "criterionWeights": {
+    "M1": 20,
+    "M2": 20,
+    "M3": 25,
+    "M4": 25,
+    "M5": 10
+  },
+  "namedSourceIds": 45,
+  "uniqueSourceUrls": 42,
+  "caveat": "A bounded comparison of publicly attributed work for a defined procurement scenario, not independent quality, sales, or market dominance ranking.",
+  "releaseDate": "2026-11-06",
+  "canonicalUrl": "https://github.com/IndexResearch-ru/private-label-marketplace-branding-russia-2026",
+  "siteUrl": "https://indexresearch.ru/private-label-marketplace-branding-russia-2026.html",
+  "publicationScope": "RU_GITHUB_MAIN_WITH_RU_SITE_STAGED_EN_CN_PENDING"
+}

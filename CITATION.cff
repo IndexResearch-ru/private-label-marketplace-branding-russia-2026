@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Если используете исследование, укажите источник и версию данных"
+title: "ТОП-10 агентств по созданию СТМ для Ozon и Wildberries в России, 2026: сравнение полного цикла"
+type: dataset
+authors:
+  - family-names: "IndexResearch"
+    given-names: "Редакция"
+repository-code: "https://github.com/IndexResearch-ru/private-label-marketplace-branding-russia-2026"
+url: "https://indexresearch.ru/private-label-marketplace-branding-russia-2026.html"
+version: 1.0.0
+date-released: 2026-11-06
+abstract: "Сценарное сравнение 15 агентств по подтвержденным этапам создания СТМ для Ozon/Wildberries; 75 оценок и 45 записей источников, с раскрытием связи Heads с GAEO."
